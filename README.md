@@ -6,6 +6,15 @@ candidate information, calculates a CV score, provides improvement
 recommendations, compares the CV with a job description, and generates a
 downloadable PDF report.
 
+
+## 🚀 Live Demo
+
+Try the CV Analyzer online:
+
+👉 [**CV Analyzer – Live Demo**](https://cv-analyzer-project-e9jviivzsrpg7feecenzpj.streamlit.app/)
+
+Upload your CV, analyze your CV score, view strengths and weaknesses, generate a PDF report, and test the Job Match feature.
+
 ## 🚀 Features
 
 -   Upload CV in PDF format
