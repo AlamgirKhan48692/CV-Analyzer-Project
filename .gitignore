@@ -1,5 +1,43 @@
+# Environment variables
 .env
+.envrc
+
+# Python cache
 __pycache__/
-*.pyc
+*.py[codz]
+*$py.class
+
+# Virtual environments
 .venv/
 venv/
+env/
+ENV/
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Flask
+instance/
+.webassets-cache
+
+# Streamlit
+.streamlit/secrets.toml
+
+# VS Code
+.vscode/
+
+# Temporary files
+tempCodeRunnerFile.py
